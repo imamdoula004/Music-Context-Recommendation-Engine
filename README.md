@@ -25,7 +25,7 @@
   5. When running the app, select the CSV file using the
      file selection dialog.
 
-     # dependencies:
+# dependencies:
   description: 
     This project runs directly in your local Python environment.
     No virtual environment and no requirements.txt are used.
