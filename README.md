@@ -44,6 +44,7 @@
   - "Scroll through personalized music recommendations"
 
 # recommendation_logic:
+  
   inputs:
     - "Audio features (energy, tempo, valence, danceability, acousticness)"
     - "Voice sentiment analysis"
@@ -54,8 +55,8 @@
     - "Track release recency"
   scoring_strategy: |
     Recommendations are ranked using a weighted combination
-    of cosine similarity, contextual bias (mood/time/weather),
-    popularity normalization, and controlled randomness to
+    of *cosine similarity*, *contextual bias (mood/time/weather)*,
+    *popularity normalization*, and *controlled randomness* to
     preserve diversity while prioritizing relevance.
 
 # features:
