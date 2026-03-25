@@ -1,8 +1,8 @@
-# Spotify-Context-Recommendation-Engine 
+# Music-Context-Recommendation-Engine 
 
 ---
 # overview: 
-  Spotify Context Recommendation Engine is a local, desktop-based, context-aware music recommendation system. It analyzes time of day, voice-based sentiment, a short mood question, weather conditions, and audio features to recommend relevant and recent tracks from a large Spotify dataset.
+  Music Context Recommendation Engine is a local, desktop-based, context-aware music recommendation system. It analyzes time of day, voice-based sentiment, a short mood question, weather conditions, and audio features to recommend relevant and recent tracks from a large Spotify dataset.
 
 # dataset:
   name: "Spotify Dataset (1921–2020) — 600K+ Tracks 
